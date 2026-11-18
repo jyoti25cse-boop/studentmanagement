@@ -73,7 +73,7 @@ MongoDB Atlas is used to store student records. Mongoose is used to connect the 
 
 Author
 
-Garv
+Jyoti 
 
 Conclusion
 
